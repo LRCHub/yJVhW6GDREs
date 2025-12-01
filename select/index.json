@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "YAH YAH YAH",
+  "base_artist": "CHAGE and ASKA",
+  "createdAt": "2025-12-01T13:18:49.377373Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "YAH YAH YAH",
+      "artist": "CHAGE and ASKA",
+      "has_synced": true,
+      "path": "select/01_YAH_YAH_YAH_CHAGE_and_ASKA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "YAH YAH YAH",
+      "artist": "CHAGE&ASKA",
+      "has_synced": true,
+      "path": "select/02_YAH_YAH_YAH_CHAGE&ASKA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Yah Yah Yah",
+      "artist": "CHAGE and ASKA",
+      "has_synced": true,
+      "path": "select/03_Yah_Yah_Yah_CHAGE_and_ASKA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "YAH YAH YAH",
+      "artist": "BiS",
+      "has_synced": false,
+      "path": "select/04_YAH_YAH_YAH_BiS.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "YAH YAH YAH",
+      "artist": "Hello Sleepwalkers",
+      "has_synced": true,
+      "path": "select/05_YAH_YAH_YAH_Hello_Sleepwalkers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "YAH YAH YAH",
+      "artist": "CHAGE and ASKA",
+      "has_synced": true,
+      "path": "select/06_YAH_YAH_YAH_CHAGE_and_ASKA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "YAH YAH YAH",
+      "artist": "CHAGE & ASKA",
+      "has_synced": true,
+      "path": "select/07_YAH_YAH_YAH_CHAGE_&_ASKA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "YAH YAH YAH",
+      "artist": "CHAGE&ASKA",
+      "has_synced": true,
+      "path": "select/08_YAH_YAH_YAH_CHAGE&ASKA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "夢心地 yah! yah! yah!",
+      "artist": "JAM Project",
+      "has_synced": false,
+      "path": "select/09_夢心地_yah!_yah!_yah!_JAM_Project.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "YAH YAH YAH",
+      "artist": "CHAGE&ASKA",
+      "has_synced": true,
+      "path": "select/10_YAH_YAH_YAH_CHAGE&ASKA.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "YAH YAH YAH",
+      "artist": "CHAGE&ASKA",
+      "has_synced": true,
+      "path": "select/11_YAH_YAH_YAH_CHAGE&ASKA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "YAH YAH YAH",
+      "artist": "逢坂良太・寺島拓篤",
+      "has_synced": false,
+      "path": "select/pl_01_YAH_YAH_YAH_逢坂良太・寺島拓篤.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "YAHYAHYAH",
+      "artist": "逢坂良太・寺島拓篤",
+      "has_synced": false,
+      "path": "select/pl_02_YAHYAHYAH_逢坂良太・寺島拓篤.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "YAH YAH YAH",
+      "artist": "逢坂良太・寺島拓篤",
+      "has_synced": false,
+      "path": "select/pl_03_YAH_YAH_YAH_逢坂良太・寺島拓篤.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "YAH YAH YAH",
+      "artist": "逢坂良太・寺島拓篤",
+      "has_synced": false,
+      "path": "select/pl_04_YAH_YAH_YAH_逢坂良太・寺島拓篤.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Yah Yah Yah",
+      "artist": "逢坂良太・寺島拓篤",
+      "has_synced": false,
+      "path": "select/pl_05_Yah_Yah_Yah_逢坂良太・寺島拓篤.txt"
+    }
+  ]
+}
